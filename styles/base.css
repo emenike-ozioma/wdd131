@@ -16,31 +16,27 @@ body {
 h1 {
     background-color: #333;
     color: white;
-    padding: 20px;
+    padding: 30px;
     text-align: center;
 }
-
-/* h1 span {
-    color: #ACEB98;
-    font-size: 0.8em;
-} */
 
 nav {
     background-color: black;
     display: flex;
-    justify-content: space-around;
 }
 
 nav a {
     color: white;
     text-decoration: none;
     padding: 15px;
+    flex: 1;
+    text-align: center;
 }
 
 nav a:hover {
     background-color: #eee;
     color: black;
-    border-radius: 10px;
+    border-radius: 50px;
 }
 
 main {

@@ -20,10 +20,9 @@ h1 {
     text-align: center;
 }
 
-.highlight-name {
+h1 span {
     color: #ACEB98;
     font-size: 0.8em;
-    /* font-family: ; */
 }
 
 nav {
